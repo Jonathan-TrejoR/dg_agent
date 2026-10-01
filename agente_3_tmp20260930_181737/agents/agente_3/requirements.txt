@@ -1,4 +1,0 @@
-google-adk
-pypdf
-google-cloud-aiplatform[adk,agent_engines]
-google-adk[a2a]==2.10.0
