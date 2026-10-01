@@ -390,7 +390,7 @@ def audit_sql_antipatterns_and_dependencies(sql_code: str) -> dict:
 
 
 # =====================================================================
-# BLOQUE 4: DEFINICIÓN DEL AGENTE PRINCIPAL DE GOOGLE ADK (GOOGLE CHAT READY)
+# DEFINICIÓN DEL AGENTE PRINCIPAL DE GOOGLE ADK (GOOGLE CHAT READY)
 # =====================================================================
 
 root_agent = Agent(
