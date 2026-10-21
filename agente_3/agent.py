@@ -395,7 +395,7 @@ def audit_sql_antipatterns_and_dependencies(sql_code: str) -> dict:
 
 root_agent = Agent(
     name="agente_3",
-    model="gemini-2.5-flash",
+    model="gemini-2.5-pro",
     description=(
         "Agente Orquestador Inviolable de Auditoría, Optimización SQL Determinista, FinOps, DataOps, MESH Standards "
         "y Mapeo de Dependencias (Sheets) en Google Cloud BigQuery."
